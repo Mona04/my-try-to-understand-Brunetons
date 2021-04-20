@@ -6,3 +6,5 @@ https://github.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering/blob/master/
 
 https://moksha1905.blogspot.com/2021/04/sky-atmospheric-scattering.html
 여기에 내가 이해한 것들을 기록 해놓음.
+
+Light Shaft 는 무시했음.
